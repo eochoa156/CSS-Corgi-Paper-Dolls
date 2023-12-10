@@ -15,3 +15,14 @@
     top: 2.9em;
     left: 4.2em;
 }
+
+.luna{
+    position: sticky;
+    top: 0em;
+    left: 0em;
+}
+
+.top-hat{
+    position: relative;
+    z-index: 1;
+}
